@@ -427,10 +427,13 @@ th {
 }
 
 /*Propio*/
-h6{
+.center{
+  text-align: center;
+}
+.blueText{
   color:#00b2ed;
 }
-h2{
+.Dblue{
   color:#0093d5;
 }
 .blueLine{
